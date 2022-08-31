@@ -4,4 +4,6 @@ public class Store {
 
     // furniture store
 
+    // Amazon, Walmart, Costco, Trader Joe's, blah blah
+
 }
